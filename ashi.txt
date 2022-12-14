@@ -1,4 +1,8 @@
 this is to practice in new project
 second line
 3rd line
+<<<<<<< HEAD
 4th line in local
+=======
+4th line in remote
+>>>>>>> refs/remotes/origin/main
