@@ -4,3 +4,4 @@ second line
 4th line in local
 4th line in remote
 6th line in local
+7th line from remote
