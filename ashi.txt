@@ -6,4 +6,6 @@ second line
 6th line in local
 7th line from remote
 this is on 14 jan
+from the remote
 10
+this line is to revert
